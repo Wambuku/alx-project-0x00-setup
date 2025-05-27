@@ -4,9 +4,9 @@ This project is part of the ALX Software Engineering curriculum. It introduces t
 
 ---
 
-## 🚀 Project Setup
+## Project Setup
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 - ✅ Next.js (v13+)
 - ✅ TypeScript
@@ -17,7 +17,7 @@ This project is part of the ALX Software Engineering curriculum. It introduces t
 
 ---
 
-### 🏗️ Folder Structure
+###  Folder Structure
 
 alx-project-0x00/
 ├── components/ # Reusable UI components
@@ -39,7 +39,7 @@ alx-project-0x00/
 
 ---
 
-## 📘 Tasks Completed
+##  Tasks Completed
 
 - ✅ Scaffolding project using `create-next-app` with TypeScript
 - ✅ Folder setup: `components`, `interfaces`
@@ -51,7 +51,7 @@ alx-project-0x00/
 
 ---
 
-## 💻 Running the Project
+## Running the Project
 
 ```bash
 npm install
